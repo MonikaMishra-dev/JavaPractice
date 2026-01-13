@@ -1,6 +1,4 @@
-package arrays;
-
-import java.util.Arrays;
+package arrays.basics;
 
 public class CopyOneArrayIntoAnother {
     public static void main(String[] args) {

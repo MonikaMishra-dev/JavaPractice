@@ -1,7 +1,4 @@
-package arrays;
-
-import java.util.Arrays;
-import java.util.stream.Stream;
+package arrays.basics;
 
 public class ArrayCheckForSorting {
     public static void main(String[] args) {
